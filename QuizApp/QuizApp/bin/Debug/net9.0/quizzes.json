@@ -1,0 +1,782 @@
+[
+  {
+    "Category": "History",
+    "Questions": [
+      {
+        "Text": "When did World War II end?",
+        "Options": [
+          "1945",
+          "1939",
+          "1918",
+          "1963"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Who was the first President of the United States?",
+        "Options": [
+          "George Washington",
+          "Abraham Lincoln",
+          "Thomas Jefferson",
+          "John Adams"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which civilizations built pyramids?",
+        "Options": [
+          "Egyptians",
+          "Mayans",
+          "Romans",
+          "Greeks"
+        ],
+        "CorrectAnswers": [
+          0,
+          1
+        ]
+      },
+      {
+        "Text": "What year did the Berlin Wall fall?",
+        "Options": [
+          "1989",
+          "1991",
+          "1975",
+          "1961"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Who led the Soviet Union during World War II?",
+        "Options": [
+          "Joseph Stalin",
+          "Vladimir Lenin",
+          "Leon Trotsky",
+          "Nikita Khrushchev"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which countries were part of the Axis powers in WWII?",
+        "Options": [
+          "Germany",
+          "Italy",
+          "United Kingdom",
+          "Japan"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "Text": "What ancient civilization invented democracy?",
+        "Options": [
+          "Romans",
+          "Greeks",
+          "Egyptians",
+          "Persians"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "In what year did the American Civil War begin?",
+        "Options": [
+          "1861",
+          "1776",
+          "1812",
+          "1865"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Who was Napoleon Bonaparte?",
+        "Options": [
+          "French Emperor",
+          "Italian King",
+          "Spanish General",
+          "Russian Tsar"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which war was fought between the North and South regions in the USA?",
+        "Options": [
+          "World War I",
+          "American Civil War",
+          "Vietnam War",
+          "Revolutionary War"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which empires existed in South America before European colonization?",
+        "Options": [
+          "Inca",
+          "Aztec",
+          "Mayan",
+          "Mongol"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "Text": "When did the French Revolution begin?",
+        "Options": [
+          "1789",
+          "1804",
+          "1776",
+          "1815"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which countries were part of the Allied Powers during WWII?",
+        "Options": [
+          "United Kingdom",
+          "Germany",
+          "Soviet Union",
+          "USA"
+        ],
+        "CorrectAnswers": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "Text": "Who was the leader of the civil rights movement in the USA?",
+        "Options": [
+          "Martin Luther King Jr.",
+          "Malcolm X",
+          "Nelson Mandela",
+          "Barack Obama"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "What was the primary cause of the Cold War?",
+        "Options": [
+          "Ideological conflict between USA and USSR",
+          "World War I",
+          "Colonial rivalry",
+          "Space Race"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which historical documents influenced modern democracy?",
+        "Options": [
+          "Magna Carta",
+          "Declaration of Independence",
+          "Code of Hammurabi",
+          "UN Charter"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "Text": "Who was Cleopatra?",
+        "Options": [
+          "Queen of Egypt",
+          "Roman Senator",
+          "Greek Goddess",
+          "Mesopotamian Ruler"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "What empire was ruled by Genghis Khan?",
+        "Options": [
+          "Ottoman Empire",
+          "Mongol Empire",
+          "Persian Empire",
+          "Chinese Empire"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "What triggered the start of World War II?",
+        "Options": [
+          "Germany invaded Poland",
+          "Assassination of Archduke",
+          "Attack on Pearl Harbor",
+          "Fall of France"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "What were major inventions of the Industrial Revolution?",
+        "Options": [
+          "Steam engine",
+          "Printing press",
+          "Spinning jenny",
+          "Electric light"
+        ],
+        "CorrectAnswers": [
+          0,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Geography",
+    "Questions": [
+      {
+        "Text": "What is the capital of France?",
+        "Options": [
+          "Paris",
+          "London",
+          "Berlin",
+          "Madrid"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which river runs through Egypt?",
+        "Options": [
+          "Nile",
+          "Amazon",
+          "Danube",
+          "Mississippi"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which continents does the equator pass through?",
+        "Options": [
+          "South America",
+          "Africa",
+          "Asia",
+          "Australia"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "Text": "What is the largest desert in the world?",
+        "Options": [
+          "Sahara",
+          "Gobi",
+          "Kalahari",
+          "Arctic"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which countries share a border with Germany?",
+        "Options": [
+          "France",
+          "Austria",
+          "Spain",
+          "Poland"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "Text": "What is the tallest mountain in the world?",
+        "Options": [
+          "K2",
+          "Mount Everest",
+          "Kangchenjunga",
+          "Lhotse"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which oceans border the United States?",
+        "Options": [
+          "Atlantic",
+          "Pacific",
+          "Indian",
+          "Arctic"
+        ],
+        "CorrectAnswers": [
+          0,
+          1
+        ]
+      },
+      {
+        "Text": "What is the smallest country in the world by area?",
+        "Options": [
+          "Monaco",
+          "Vatican City",
+          "San Marino",
+          "Liechtenstein"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which of the following are US states?",
+        "Options": [
+          "Alaska",
+          "Quebec",
+          "Texas",
+          "Ontario"
+        ],
+        "CorrectAnswers": [
+          0,
+          2
+        ]
+      },
+      {
+        "Text": "Which countries are part of the United Kingdom?",
+        "Options": [
+          "England",
+          "Scotland",
+          "Wales",
+          "Ireland"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "Text": "Which city is known as the \u0027Big Apple\u0027?",
+        "Options": [
+          "Los Angeles",
+          "New York",
+          "Chicago",
+          "Miami"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which countries are located in South America?",
+        "Options": [
+          "Brazil",
+          "Argentina",
+          "Mexico",
+          "Chile"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "Text": "What is the longest river in the world?",
+        "Options": [
+          "Nile",
+          "Amazon",
+          "Yangtze",
+          "Mississippi"
+        ],
+        "CorrectAnswers": [
+          0,
+          1
+        ]
+      },
+      {
+        "Text": "Which countries have a Mediterranean coastline?",
+        "Options": [
+          "Spain",
+          "Portugal",
+          "Italy",
+          "Turkey"
+        ],
+        "CorrectAnswers": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "Text": "Which of these are island nations?",
+        "Options": [
+          "Japan",
+          "Australia",
+          "Iceland",
+          "Germany"
+        ],
+        "CorrectAnswers": [
+          0,
+          2
+        ]
+      },
+      {
+        "Text": "What is the capital of Canada?",
+        "Options": [
+          "Toronto",
+          "Ottawa",
+          "Vancouver",
+          "Montreal"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which countries are part of Scandinavia?",
+        "Options": [
+          "Norway",
+          "Denmark",
+          "Finland",
+          "Sweden"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "Text": "Which countries use the Euro as their currency?",
+        "Options": [
+          "Germany",
+          "Switzerland",
+          "France",
+          "Norway"
+        ],
+        "CorrectAnswers": [
+          0,
+          2
+        ]
+      },
+      {
+        "Text": "What is the largest island in the world?",
+        "Options": [
+          "Greenland",
+          "New Guinea",
+          "Borneo",
+          "Madagascar"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which of these are U.S. territories?",
+        "Options": [
+          "Puerto Rico",
+          "Guam",
+          "Bermuda",
+          "U.S. Virgin Islands"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "Biology",
+    "Questions": [
+      {
+        "Text": "What is the basic unit of life?",
+        "Options": [
+          "Cell",
+          "Atom",
+          "Molecule",
+          "Organ"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which of these are mammals?",
+        "Options": [
+          "Whale",
+          "Shark",
+          "Dolphin",
+          "Turtle"
+        ],
+        "CorrectAnswers": [
+          0,
+          2
+        ]
+      },
+      {
+        "Text": "What molecule carries genetic information?",
+        "Options": [
+          "DNA",
+          "RNA",
+          "Protein",
+          "Carbohydrate"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which organ is responsible for pumping blood?",
+        "Options": [
+          "Brain",
+          "Heart",
+          "Liver",
+          "Lungs"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which of the following are types of blood cells?",
+        "Options": [
+          "Red blood cells",
+          "White blood cells",
+          "Platelets",
+          "Neurons"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "Text": "Photosynthesis occurs in which organelle?",
+        "Options": [
+          "Mitochondria",
+          "Chloroplast",
+          "Nucleus",
+          "Ribosome"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which of these are examples of invertebrates?",
+        "Options": [
+          "Spider",
+          "Frog",
+          "Octopus",
+          "Lion"
+        ],
+        "CorrectAnswers": [
+          0,
+          2
+        ]
+      },
+      {
+        "Text": "What is the process by which cells divide called?",
+        "Options": [
+          "Mitosis",
+          "Meiosis",
+          "Photosynthesis",
+          "Respiration"
+        ],
+        "CorrectAnswers": [
+          0,
+          1
+        ]
+      },
+      {
+        "Text": "Which systems are part of the human body?",
+        "Options": [
+          "Circulatory",
+          "Respiratory",
+          "Digestive",
+          "Solar"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "Text": "Which animals are considered reptiles?",
+        "Options": [
+          "Lizard",
+          "Frog",
+          "Snake",
+          "Turtle"
+        ],
+        "CorrectAnswers": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "Text": "What type of blood vessels carry blood away from the heart?",
+        "Options": [
+          "Veins",
+          "Arteries",
+          "Capillaries",
+          "Venules"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which of these are producers in an ecosystem?",
+        "Options": [
+          "Plants",
+          "Animals",
+          "Fungi",
+          "Algae"
+        ],
+        "CorrectAnswers": [
+          0,
+          3
+        ]
+      },
+      {
+        "Text": "What do we call animals that eat only plants?",
+        "Options": [
+          "Carnivores",
+          "Herbivores",
+          "Omnivores",
+          "Detritivores"
+        ],
+        "CorrectAnswers": [
+          1
+        ]
+      },
+      {
+        "Text": "Which organ filters waste from the blood?",
+        "Options": [
+          "Kidney",
+          "Liver",
+          "Pancreas",
+          "Lungs"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which are types of RNA?",
+        "Options": [
+          "mRNA",
+          "tRNA",
+          "rRNA",
+          "cRNA"
+        ],
+        "CorrectAnswers": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "Text": "What kingdom do fungi belong to?",
+        "Options": [
+          "Plantae",
+          "Animalia",
+          "Fungi",
+          "Protista"
+        ],
+        "CorrectAnswers": [
+          2
+        ]
+      },
+      {
+        "Text": "Which of these are part of the human skeletal system?",
+        "Options": [
+          "Femur",
+          "Heart",
+          "Skull",
+          "Liver"
+        ],
+        "CorrectAnswers": [
+          0,
+          2
+        ]
+      },
+      {
+        "Text": "Which are examples of amphibians?",
+        "Options": [
+          "Salamander",
+          "Frog",
+          "Snake",
+          "Turtle"
+        ],
+        "CorrectAnswers": [
+          0,
+          1
+        ]
+      },
+      {
+        "Text": "What is the powerhouse of the cell?",
+        "Options": [
+          "Mitochondria",
+          "Nucleus",
+          "Ribosome",
+          "Golgi apparatus"
+        ],
+        "CorrectAnswers": [
+          0
+        ]
+      },
+      {
+        "Text": "Which processes do plants use to make energy?",
+        "Options": [
+          "Photosynthesis",
+          "Respiration",
+          "Fermentation",
+          "Decomposition"
+        ],
+        "CorrectAnswers": [
+          0,
+          1
+        ]
+      }
+    ]
+  }
+]

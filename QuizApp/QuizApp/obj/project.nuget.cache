@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHYiBQRslbY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kolya\\source\\repos\\QuizApp\\QuizApp\\QuizApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
